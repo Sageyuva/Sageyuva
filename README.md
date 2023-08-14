@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-commerce project**
 
-- 👨‍💻 All of my projects are available at [sageyuva.vercel.app](sageyuva.vercel.app)
+- 👨‍💻 All of my projects are available at [https://sageyuva.vercel.app](https://sageyuva.vercel.app)
 
 - 💬 Ask me about **react js , next js , mongo db**
 
