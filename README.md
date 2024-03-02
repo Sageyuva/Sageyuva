@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuvaraj D</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on **E-commerce project**
+- 🔭 I’m currently working on **Live chatting website**
 
 - 👨‍💻 All of my projects are available at [https://sageyuva.vercel.app](https://sageyuva.vercel.app/Project)
 
