@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building a platform for developers to connect, compete, and collaborate.**
 
-- 👨‍💻 All of my projects are available at [https://yuvarajdhammure.vercel.app/https://yuvarajdhammure.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://yuvarajdhammure.vercel.app)
 
 - 💬 Ask me about **react js , next js , mongo db**
 
